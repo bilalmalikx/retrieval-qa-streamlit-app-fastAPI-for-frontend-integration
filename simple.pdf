@@ -1,0 +1,7 @@
+LangChain PDF Q&A Sample
+
+This is a demo PDF file used for testing the RetrievalQA system with LangChain.
+
+The content is simple but sufficient to test chunking, embedding, and question answering.
+
+Thank you!
