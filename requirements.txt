@@ -6,3 +6,6 @@ faiss-cpu
 pdfplumber
 python-dotenv
 tiktoken
+langchain-community
+unstructured
+openpyxl
